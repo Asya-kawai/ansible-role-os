@@ -2,7 +2,7 @@
 
 [![CI](https://github.com/Asya-kawai/ansible-role-os/actions/workflows/ci.yml/badge.svg)](https://github.com/Asya-kawai/ansible-role-os/actions/workflows?query=workflow%3ACI)
 
-Install mecab.
+ Setup OS.
 
 # Examples
 
